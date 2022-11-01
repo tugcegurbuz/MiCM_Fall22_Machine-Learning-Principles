@@ -1,6 +1,6 @@
 # Welcome to MiCM Fall-2022 Machine Learning Principles Workshop!
 
-Workshop Schedule (July 14th and 15th):
+Workshop Schedule:
 * **Nov 3rd, Pre-workshop Session** (3.00 - 4.00 pm)
 * **Nov 4th, ML Time!** (1.00 - 5.00 pm)
 
