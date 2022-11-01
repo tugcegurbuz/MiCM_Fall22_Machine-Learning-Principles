@@ -2,7 +2,7 @@
 
 Workshop Schedule:
 * **Nov 3rd, Pre-workshop Session** (3.00 - 4.00 pm)
-* **Nov 4th, ML Time <3 ** (1.00 - 5.00 pm)
+* **Nov 4th, ML Time <3** (1.00 - 5.00 pm)
 
 ### Pre-workshop Session - Introduction to Google Colab Basics And Pytorch
 * *Learn state of art ML library*
