@@ -26,7 +26,7 @@ Workshop Schedule:
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/2_Optimization_Tutorial.ipynb) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/2_Optimization_Tutorial.ipynb) |)
 
 
 
