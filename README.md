@@ -28,6 +28,16 @@ Workshop Schedule:
 | - | --- |
 | Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/2_Optimization_Tutorial.ipynb) |)
 
+### Regularization
+* Slides: [Regularization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture3-Regularization.pdf)
+* *Build better machine learning models*
+
+* **Bonus**
+|   | Run |
+| - | --- |
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/3_Regularization_Tutorial_1.ipynb) |)
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/3_Regularization_Tutorial_2.ipynb) |)
+
 
 
 ## References
