@@ -31,8 +31,8 @@ Workshop Schedule:
 ### Regularization
 * Slides: [Regularization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture3-Regularization.pdf)
 * *Build better machine learning models*
+*-BONUS-
 
-* **Bonus**
 |   | Run |
 | - | --- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/3_Regularization_Tutorial_1.ipynb) |)
