@@ -21,7 +21,7 @@ Workshop Schedule:
 | Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/1_MLP_Tutorial.ipynb) |)
 
 ### Optimization
-* Slides: [Optimization]()
+* Slides: [Optimization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture2-Optimization.pdf)
 * *Learn the magic behind machine learning*
 
 |   | Run |
